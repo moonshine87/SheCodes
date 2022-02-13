@@ -1,0 +1,71 @@
+.col-auto {
+  margin-top: 20px;
+  line-height: 1.5;
+  color: blue;
+}
+h2 {
+  margin-top: 10px;
+  font-family: "Vollkorn", serif;
+  font-weight: bold;
+  color: darkmagenta;
+  margin-bottom: 20px;
+}
+
+h5,
+#current,
+#climate {
+  font-family: "Vollkorn", serif;
+  font-size: 20px;
+  line-height: 1.5;
+  color: indigo;
+}
+h3 {
+  color: seagreen;
+}
+#left,
+#current,
+#temp-c,
+#temp-f {
+  display: inline;
+  margin-top: 3px;
+  margin-right: 0;
+}
+#middle {
+  margin-left: 0;
+  margin-top: 20px;
+  padding: 0;
+}
+
+.weather-icon1 {
+  font-size: 120px;
+  margin-top: 80px;
+  color: lightblue;
+  text-align: center;
+  margin-right: 0;
+}
+
+#right {
+  text-align: center;
+  margin-right: 0;
+  margin-top: 10px;
+}
+.col-2 {
+  line-height: 2;
+  font-family: "Vollkorn", serif;
+  color: midnightblue;
+}
+.weather-app {
+  border: 1px solid lightgray;
+  padding: 20px;
+  margin: 10px auto;
+  max-width: 650px;
+  border-radius: 10px;
+}
+
+#current-location {
+  display: inline;
+  border-radius: 5px;
+  background: #6443ea;
+  color: #fff;
+  padding: 5px;
+}
